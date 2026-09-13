@@ -31,13 +31,10 @@ A cloud company hired 3 new employees and required structured role-based access 
 ---
 
 ## 🛠️ Implementation Steps
-
+<img width="953" height="521" alt="scrshort" src="https://github.com/user-attachments/assets/0fe0d8cb-7161-4580-a200-e8539c154654" />
 
 ### Step 1: Create Groups
 Created two primary user groups for departmental segregation:
-
-<img width="953" height="521" alt="scrshort" src="https://github.com/user-attachments/assets/0fe0d8cb-7161-4580-a200-e8539c154654" />
-
 
 ```bash
 sudo groupadd cloud-engineers
