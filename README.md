@@ -3,7 +3,7 @@
 
 # Linux User & Group Management System
 
-![Linux User & Group Management Verification](project.jpg)
+(project.jpg)
 
 ## 📌 Project Overview
 This project demonstrates **Linux User & Group Management**, Access Control, and File Permissions configured on a Linux server (Kali Linux) based on real-world enterprise requirements for Cloud Engineering and DevOps departments.
