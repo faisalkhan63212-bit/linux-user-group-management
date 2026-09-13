@@ -1,3 +1,4 @@
+
 <img width="1312" height="1199" alt="project" src="https://github.com/user-attachments/assets/addc79f3-cfd8-43f4-849e-fc6aa0f293a3" />
 
 # Linux User & Group Management System
@@ -102,3 +103,6 @@ Linux File Permissions: Implementing chmod, chgrp, and numerical permission mask
 Least Privilege Principle: Restricting access so team members only access files essential to their role.
 
 Enterprise Offboarding: Proper user deletion while maintaining group structure integrity.
+
+
+<img width="953" height="521" alt="scrshort" src="https://github.com/user-attachments/assets/0fe0d8cb-7161-4580-a200-e8539c154654" />
